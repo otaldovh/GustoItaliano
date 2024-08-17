@@ -1,0 +1,27 @@
+body{ 
+    background-color: rgba(218, 200, 179, 1);
+    display: flex;
+}
+#metade {
+    box-sizing: 50%;
+    margin:0px;
+    padding:0px;
+    border:0px;
+    display: flex;
+    height: 98vh;
+    width: 260vh;
+    background-color: rgba(0, 159, 82, 1);
+    flex-direction: column;
+}
+#text{
+    font-size: 5vh;
+    margin: 8%;
+    color: white;
+}
+#img{
+    width: 17rem;
+    margin-left: 27%;
+}
+#outrametade{
+    margin: 4%;
+}
